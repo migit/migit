@@ -12,7 +12,15 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5851--8833-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5851-8833)
 [![GitLab](https://img.shields.io/badge/GitLab-migil-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/migil)
 [![Hackster.io](https://img.shields.io/badge/Hackster.io-mikroller-2E9FE6?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/mikroller)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migit&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migit&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=migit)
+![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 </div>
 
 ---
@@ -66,5 +74,5 @@ UTC+03:00
 ---
 
 *"The best way to understand a system is to build one!."*
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=migit)
 </div>
