@@ -1,17 +1,11 @@
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  MICHAEL SEYOUM · migit GitHub Profile README                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-███╗   ███╗██╗ ██████╗ ██╗████████╗
-████╗ ████║██║██╔════╝ ██║╚══██╔══╝
-██╔████╔██║██║██║  ███╗██║   ██║   
-██║╚██╔╝██║██║██║   ██║██║   ██║   
-██║ ╚═╝ ██║██║╚██████╔╝██║   ██║   
-╚═╝     ╚═╝╚═╝ ╚═════╝ ╚═╝   ╚═╝  
-```
+<img width="596" height="260" alt="bcard-tag-l" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
 
 **`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
 
@@ -20,8 +14,7 @@
 [![Hackster.io](https://img.shields.io/badge/Hackster.io-mikroller-2E9FE6?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/mikroller)
 
 
-<img width="373" height="691" alt="bcard-tag" src="https://github.com/user-attachments/assets/c2a20466-560f-4efd-9cbe-d23f8135e4df" />
-
+<img width="596" height="260" alt="bcard-tag-l" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
 </div>
 
 ---
