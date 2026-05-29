@@ -19,6 +19,9 @@
 [![GitLab](https://img.shields.io/badge/GitLab-migil-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/migil)
 [![Hackster.io](https://img.shields.io/badge/Hackster.io-mikroller-2E9FE6?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/mikroller)
 
+
+<img width="373" height="691" alt="bcard-tag" src="https://github.com/user-attachments/assets/c2a20466-560f-4efd-9cbe-d23f8135e4df" />
+
 </div>
 
 ---
@@ -37,25 +40,9 @@ From autonomous robots navigating real rooms to pocket-sized IoT gadgets and ter
 - Hacking **minimal terminal environments** onto single-board computers
 - Computer Scientist with a passion for robotics research
 
-
-
-## `> cat skills.txt`
-
-<div align="center">
-
-| Systems & Architecture | Embedded & Hardware | AI & Robotics | Languages |
-|:---:|:---:|:---:|:---:|
-| System Design | ESP32 / Arduino | Autonomous Navigation | C++ |
-| Distributed Systems | Raspberry Pi / SBCs | Computer Vision | Python |
-| IoT Architecture | 3D Printing | Control Theory / PID | Kotlin |
-| Real-Time Systems | Sensor Fusion | AI-Assisted Tuning | Shell / Bash |
-| Linux Internals | PCB Prototyping | SLAM | Processing |
-
-</div>
-
 ---
 
-## `> ping --interests`
+## `> interests`
 
 ```yaml
 currently_exploring:
@@ -75,17 +62,7 @@ open_to:
 
 ---
 
-## `> uptime --stats`
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=migit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9)
-
-</div>
-
----
 
 ## `> connect`
 
@@ -102,5 +79,3 @@ UTC+03:00
 *"The best way to understand a system is to build one!."*
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
