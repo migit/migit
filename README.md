@@ -6,6 +6,7 @@
 <div align="center">
 
 <img width="596" height="260" alt="bcard-tag-l" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
+![GitHub Streak](https://streak-stats.demolab.com?user=migit)
 
 **`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
 
@@ -14,7 +15,6 @@
 [![Hackster.io](https://img.shields.io/badge/Hackster.io-mikroller-2E9FE6?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/mikroller)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migit&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migit&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=migit)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
@@ -74,5 +74,5 @@ UTC+03:00
 ---
 
 *"The best way to understand a system is to build one!."*
-![Trophies](https://github-profile-trophy.vercel.app/?username=migit)
+
 </div>
