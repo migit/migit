@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  MICHAEL SEYOUM · migit — GitHub Profile README                      -->
+<!--  MICHAEL SEYOUM · migit GitHub Profile README                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 ╚═╝     ╚═╝╚═╝ ╚═════╝ ╚═╝   ╚═╝  
 ```
 
-**`Michael Seyoum`** — Senior Software Developer · System Architect · AI & Robotics Enthusiast
+**`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5851--8833-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5851-8833)
 [![GitLab](https://img.shields.io/badge/GitLab-migil-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/migil)
@@ -29,10 +29,10 @@
 
 I build things that **think**, **move**, and **connect**.
 
-From autonomous robots navigating real rooms to pocket-sized IoT gadgets and terminal cyberdecks — my work lives at the intersection of **hardware and intelligence**. I'm drawn to problems where software meets the physical world, where a bug doesn't just crash a program but tips over a robot.
+From autonomous robots navigating real rooms to pocket-sized IoT gadgets and terminal cyberdecks: my work lives at the intersection of **hardware and intelligence**. I'm drawn to problems where software meets the physical world, where a bug doesn't just crash a program but tips over a robot.
 
 - Building **autonomous mobile robots** with AI perception & control
-- Exploring **control theory** — PID, AI-assisted tuning, real-time systems
+- Exploring **control theory** PID, AI-assisted tuning, real-time systems
 - Crafting **IoT solutions** that talk to the real world
 - Hacking **minimal terminal environments** onto single-board computers
 - Computer Scientist with a passion for robotics research
@@ -46,7 +46,7 @@ From autonomous robots navigating real rooms to pocket-sized IoT gadgets and ter
 <td width="50%" valign="top">
 
 ### [AI-Autonomous-Room-Rover (A2R3)](https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3)
-An open-source autonomous rover built on **low-cost hardware + open-source AI**. Navigates real rooms, maps its environment, and makes decisions — a full-stack mobile robotics platform for learning and experimentation.
+An open-source autonomous rover built on **low-cost hardware + open-source AI**. Navigates real rooms, maps its environment, and makes decisions a full-stack mobile robotics platform for learning and experimentation.
 
 `C++` · `Robotics` · `AI` · `Computer Vision`
 
@@ -68,7 +68,7 @@ IoT + control theory on a budget. Started with manual PID tuning via sliders; ev
 <td width="50%" valign="top">
 
 ###  [Ella_Box](https://github.com/migit/Ella_box)
-A pocket-sized, hackable IoT gadget in a 3D-printed enclosure. Controls and monitors **almost anything** — smart home, sensors, games, remote control, and more. The Swiss Army knife of IoT nodes.
+A pocket-sized, hackable IoT gadget in a 3D-printed enclosure. Controls and monitors **almost anything** : smart home, sensors, games, remote control, and more. The Swiss Army knife of IoT nodes.
 
 `C++` · `ESP32` · `3D Printing` · `IoT`
 
@@ -78,7 +78,7 @@ A pocket-sized, hackable IoT gadget in a 3D-printed enclosure. Controls and moni
 <td width="50%" valign="top">
 
 ### [Unihiker Terminal Cyberdeck](https://github.com/migit/Unihiker-Terminal-Cyberdeck)
-Stripping a single-board computer down to its **minimal terminal soul** — no desktop, no bloat. Boots fast, runs lean, looks mean. A cyberpunk dream in a small form factor.
+Stripping a single-board computer down to its **minimal terminal soul** no desktop, no bloat. Boots fast, runs lean, looks mean. A cyberpunk dream in a small form factor.
 
 `Shell` · `Linux` · `Embedded` · `SBC`
 
@@ -100,7 +100,7 @@ Resurrects old "dumb" TV screens and makes them display **useful, beautiful thin
 <td width="50%" valign="top">
 
 ###  [ESP32AndroidNotifier](https://github.com/migit/ESP32AndroidNotifier)
-Bridges the physical and digital — **ESP32 microcontroller events become Android notifications**, running silently in the background on a dedicated thread. Seamless hardware-to-phone communication.
+Bridges the physical and digital: **ESP32 microcontroller events become Android notifications**, running silently in the background on a dedicated thread. Seamless hardware-to-phone communication.
 
 `Kotlin` · `Android` · `ESP32` · `BLE/WiFi`
 
@@ -164,7 +164,7 @@ open_to:
 
 <div align="center">
 
-If you're building something that **moves**, **senses**, or **thinks** — or just wants to have a deep conversation about robots, embedded systems, or the future of autonomous machines:
+If you're building something that **moves**, **senses**, or **thinks** or just wants to have a deep conversation about robots, embedded systems, or the future of autonomous machines:
 
 **Find me on [GitLab](https://gitlab.com/migil) · [Hackster.io](https://www.hackster.io/mikroller) · [ORCID](https://orcid.org/0009-0002-5851-8833)**
 
