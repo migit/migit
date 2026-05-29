@@ -13,8 +13,6 @@
 [![GitLab](https://img.shields.io/badge/GitLab-migil-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/migil)
 [![Hackster.io](https://img.shields.io/badge/Hackster.io-mikroller-2E9FE6?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/mikroller)
 
-
-<img width="596" height="260" alt="bcard-tag-l" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
 </div>
 
 ---
@@ -54,8 +52,6 @@ open_to:
 ```
 
 ---
-
-
 
 ## `> connect`
 
