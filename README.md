@@ -1,4 +1,5 @@
 
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--  MICHAEL SEYOUM · migit GitHub Profile README                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -9,7 +10,7 @@
 
 <p align="center">
   <a href="https://myworks.gt.tc/">
-    <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/028b534b-03a4-4a00-80a7-abca6d2bbcaf" />
+    <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/36ca5100-2087-4693-857a-759b060eb7f4"  />
   </a>
 </p>
 
