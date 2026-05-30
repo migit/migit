@@ -20,6 +20,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-migil-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/migil)
 [![Hackster.io](https://img.shields.io/badge/Hackster.io-mikroller-2E9FE6?style=flat-square&logo=hackster&logoColor=white)](https://www.hackster.io/mikroller)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelseyoum/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
 
 </div>
 
