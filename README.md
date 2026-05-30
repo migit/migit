@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="https://myworks.gt.tc/">
-    <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
+    <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/028b534b-03a4-4a00-80a7-abca6d2bbcaf" />
   </a>
 </p>
+
 
 **`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
 ![GitHub Streak](https://streak-stats.demolab.com?user=migit&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=7C4DFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=7C4DFF&dates=8B949E)
