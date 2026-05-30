@@ -14,7 +14,7 @@
 </p>
 
 **`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
-![GitHub Streak](https://streak-stats.demolab.com?user=migit&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=7C4DFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=7C4DFF&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com?user=migit&theme=transparent&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=495057&background=00000000)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--5851--8833-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5851-8833)
 [![GitLab](https://img.shields.io/badge/GitLab-migil-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/migil)
