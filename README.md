@@ -5,8 +5,13 @@
 
 <div align="center">
 
-<img width="596" height="260" alt="bcard-tag-l" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
 
+
+<p align="center">
+  <a href="https://myworks.gt.tc/">
+    <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/dfb5a51f-27e8-46c0-b8cd-21b2165eb665" />
+  </a>
+</p>
 
 **`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
 ![GitHub Streak](https://streak-stats.demolab.com?user=migit)
