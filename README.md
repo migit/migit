@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://myworks.gt.tc/">
-    <img width="800"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/36ca5100-2087-4693-857a-759b060eb7f4"  />
+    <img width="100%"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/36ca5100-2087-4693-857a-759b060eb7f4"  />
   </a>
 </p>
 
