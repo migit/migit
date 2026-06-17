@@ -7,13 +7,13 @@
 <div align="center">
 
 
-
+<!--
 <p align="center">
   <a href="https://myworks.gt.tc/">
     <img width="100%"  alt="Visit My Portfolio" src="https://github.com/user-attachments/assets/36ca5100-2087-4693-857a-759b060eb7f4"  />
   </a>
 </p>
-
+-->
 
 **`Michael Seyoum`** Senior Software Developer · System Architect · AI & Robotics Enthusiast
 ![GitHub Streak](https://streak-stats.demolab.com?user=migit&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=7C4DFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=7C4DFF&dates=8B949E)
