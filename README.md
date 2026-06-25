@@ -22,8 +22,8 @@
 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migit&show_icons=true&theme=tokyonight)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migit&show_icons=true&theme=tokyonight) -->
 ![Streak](https://streak-stats.demolab.com/?user=migit&theme=tokyonight)
 
 
@@ -84,7 +84,7 @@ open_to:
 
 If you're building something that **moves**, **senses**, or **thinks** or just wants to have a deep conversation about robots, embedded systems, or the future of autonomous machines:
 
-**Find me on [GitLab](https://gitlab.com/migil) · [Hackster.io](https://www.hackster.io/mikroller) · [ORCID](https://orcid.org/0009-0002-5851-8833)**
+** Find me on [GitLab](https://gitlab.com/migil) · [Hackster.io](https://www.hackster.io/mikroller) · [ORCID](https://orcid.org/0009-0002-5851-8833) . [ThingVerse](https://www.thingiverse.com/mythings3D/designs) **
 
 UTC+03:00
 
