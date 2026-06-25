@@ -34,7 +34,7 @@
 [![Thingiverse](https://img.shields.io/badge/Thingiverse-Profile-blue?logo=thingiverse&logoColor=white)](https://www.thingiverse.com/mythings3D/designs)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@MikeMakesStuffs)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Robotics;Embedded+Systems+Developer;Open+Source;AI;Research;Innovation;Science;Tech;Collaboration;Build;Make;+&center=true&width=500&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Robotics;Embedded+Systems;Open+Source;AI;Research;Innovation;Science;Tech;Collaboration;Build;Make;+&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 </div>
 
