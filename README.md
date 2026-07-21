@@ -84,7 +84,7 @@ open_to:
 
 If you're building something that **moves**, **senses**, or **thinks** or just wants to have a deep conversation about robots, embedded systems, or the future of autonomous machines:
 
-** Find me on [GitLab](https://gitlab.com/migil) · [Hackster.io](https://www.hackster.io/mikroller) · [ORCID](https://orcid.org/0009-0002-5851-8833) . [ThingVerse](https://www.thingiverse.com/mythings3D/designs) **
+** Find me on [GitLab](https://gitlab.com/migil) · [Hackster.io](https://www.hackster.io/MikeMakesStuff) · [ORCID](https://orcid.org/0009-0002-5851-8833) . [ThingVerse](https://www.thingiverse.com/mythings3D/designs) **
 
 UTC+03:00
 
